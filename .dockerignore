@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Node/npm (just in case)
+node_modules
+npm-debug.log
+
+# Maven/Java
+.mvn/
+.m2/
+**/target/
+*.iml
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Build artifacts
+*.jar
+*.war
+*.zip
+
+# Render/CI
+.env
+.env.*
